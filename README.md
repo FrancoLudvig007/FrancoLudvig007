@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/divider.svg" width="100%" height="24" alt="" />
 
-## ⚡ Meu arsenal
+## 
 
 #### 🧠 Linguagens que tenho estudado ultimamente
 <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Python" />
@@ -84,7 +84,7 @@
 
 <br/>
 
-## 📡 Vamos conversar
+## 
 
 <!-- Troque SEU_LINKEDIN e SEU_EMAIL pelos seus dados reais (ou apague as linhas que não quiser) -->
 <a href="https://github.com/FrancoLudvig007"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
