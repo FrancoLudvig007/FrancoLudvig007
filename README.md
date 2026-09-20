@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/divider.svg" width="100%" height="24" alt="" />
 
-*Blockchain mentor, Web3 enthusiast, and game developer exploring the intersection of decentralized technology and interactive experiences.*
+*Blockchain mentor, Web3 enthusiast and Ciber Security studant. Bitcoin lover.*
 
 <br/>
 
@@ -49,7 +49,7 @@
 
 <img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/divider.svg" width="100%" height="24" alt="" />
 
-## ⛓️ Proof of Work, ao vivo
+## ⛓️ Proof of Work mentor
 
 <img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/pow-chain.svg" alt="Animação de mineração de um bloco (Proof of Work)" width="100%" />
 
