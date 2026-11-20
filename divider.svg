@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="presentation">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#E10019" stop-opacity="0"/>
+    <stop offset=".2" stop-color="#E10019"/>
+    <stop offset=".5" stop-color="#A3FF12"/>
+    <stop offset=".8" stop-color="#E10019"/>
+    <stop offset="1" stop-color="#E10019" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="p" x1="0" x2="1">
+    <stop offset="0" stop-color="#A3FF12" stop-opacity="0"/>
+    <stop offset="1" stop-color="#E4FFB8"/>
+  </linearGradient>
+  <filter id="gl" x="-50%" y="-300%" width="200%" height="700%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<line x1="0" y1="12" x2="1200" y2="12" stroke="url(#g)" stroke-width="1.5"/>
+<g stroke="#E10019" stroke-width="1" opacity=".7">
+  <line x1="100" y1="8" x2="100" y2="16"/><line x1="200" y1="8" x2="200" y2="16"/><line x1="300" y1="8" x2="300" y2="16"/><line x1="400" y1="8" x2="400" y2="16"/><line x1="500" y1="8" x2="500" y2="16"/><line x1="600" y1="8" x2="600" y2="16"/><line x1="700" y1="8" x2="700" y2="16"/><line x1="800" y1="8" x2="800" y2="16"/><line x1="900" y1="8" x2="900" y2="16"/><line x1="1000" y1="8" x2="1000" y2="16"/><line x1="1100" y1="8" x2="1100" y2="16"/>
+</g>
+<path d="M586 12 l14 -9 l14 9 l-14 9 z" fill="#050505" stroke="#A3FF12" stroke-width="1.5" filter="url(#gl)"/>
+<rect y="10.5" width="90" height="3" fill="url(#p)" filter="url(#gl)">
+  <animate attributeName="x" from="-90" to="1200" dur="4.5s" repeatCount="indefinite"/>
+</rect>
+</svg>
