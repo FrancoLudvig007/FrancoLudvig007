@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Fim da transmissão">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#E10019" stop-opacity="0"/>
+    <stop offset=".25" stop-color="#E10019"/>
+    <stop offset=".5" stop-color="#A3FF12"/>
+    <stop offset=".75" stop-color="#E10019"/>
+    <stop offset="1" stop-color="#E10019" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="gl" x="-10%" y="-100%" width="120%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    text { font-family: 'Courier New', Consolas, 'Liberation Mono', monospace; }
+    .cur { animation: cur 1s steps(1) infinite; }
+    @keyframes cur { 0%,50% { opacity:1; } 51%,100% { opacity:0; } }
+    .flow { animation: fl 40s linear infinite; }
+    @keyframes fl { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+  </style>
+</defs>
+<rect width="1200" height="140" fill="#050505"/>
+<line x1="0" y1="30" x2="1200" y2="30" stroke="url(#g)" stroke-width="2" filter="url(#gl)"/>
+<g class="flow"><text x="0" y="62" font-size="11" fill="#A3FF12" opacity=".25" xml:space="preserve">AB  16  86  A2  8D  98  01  21  0C  77  36  F3  EE  C5  80  DC  FC  43  FE  5D  04  9B  4D  78  A7  A3  EB  B9  28  65  C8  51  7E  D0  21  11  F6  A6  52  DA  35  24  87  2B  6A  31  D7  FF  E4  58  77  44  D5  EB  78  3E  96  96  8F  89  BE  82  85  65  E0  7E  5F  7D  78  4E  AB  16  86  A2  8D  98  01  21  0C  77  36  F3  EE  C5  80  DC  FC  43  FE  5D  04  9B  4D  78  A7  A3  EB  B9  28  65  C8  51  7E  D0  21  11  F6  A6  52  DA  35  24  87  2B  6A  31  D7  FF  E4  58  77  44  D5  EB  78  3E  96  96  8F  89  BE  82  85  65  E0  7E  5F  7D  78  4E</text></g>
+<text x="600" y="95" text-anchor="middle" font-size="18" letter-spacing="5" fill="#A3FF12" filter="url(#gl)">// FIM DA TRANSMISSÃO <tspan fill="#E10019" class="cur">█</tspan></text>
+<text x="600" y="122" text-anchor="middle" font-size="12" letter-spacing="3" fill="#7d8590">stay curious · stay paranoid · stay secure</text>
+</svg>

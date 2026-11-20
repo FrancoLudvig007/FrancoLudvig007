@@ -1,100 +1,88 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/header.svg" alt="Franco Ludvig — Blockchain Mentor & Web3 Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/header.svg" alt="Franco Ludvig — Cyber Security, Blockchain e Sistemas" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=AI+Prompt+Engineering;Blockchain+%26+Web3+Developer;Smart+Contracts+with+Solidity+%26+Vyper;Passionate+about+decentralized+technology;Godot+Game+Dev+for+decentralized+tech" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A3FF12&center=true&vCenter=true&repeat=true&width=760&height=50&lines=%3E+Cyber+Security+Student;%3E+Blockchain+%26+Web3+Developer;%3E+Smart+Contracts+%7C+Solidity+%26+Vyper;%3E+Systems+Programming+%7C+Rust+%26+C;%3E+Game+Development" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/divider.svg" width="100%" height="24" alt="" />
 
-*Blockchain mentor, Web3 enthusiast, and game developer exploring the intersection of decentralized technology and interactive experiences.*
+*Estudante de Cyber Security, desenvolvedor Blockchain/Web3 e entusiasta de programação de sistemas.*
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/terminal.svg" alt="Terminal animado: whoami, stack e missão" width="100%" />
+<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/terminal.svg" alt="Terminal: whoami, foco e stack" width="100%" />
 
 <img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/divider.svg" width="100%" height="24" alt="" />
 
-## ⚡ Meu arsenal
+### `[ 01 // LINGUAGENS ]`
 
-#### 🧠 Linguagens que tenho estudado ultimamente
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Python" />
-<img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=00D9FF" alt="C" />
-<img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=00D9FF" alt="C++" />
-<img src="https://img.shields.io/badge/Rust-161B22?style=for-the-badge&logo=rust&logoColor=00D9FF" alt="Rust" />
-<img src="https://img.shields.io/badge/GDScript-161B22?style=for-the-badge&logo=godotengine&logoColor=00D9FF" alt="GDScript" />
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=00D9FF" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=A3FF12" alt="Python" />
+<img src="https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge&logo=rust&logoColor=A3FF12" alt="Rust" />
+<img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=A3FF12" alt="C" />
+<img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=A3FF12" alt="C++" />
+<img src="https://img.shields.io/badge/Assembly_x86-0A0A0A?style=for-the-badge&logo=intel&logoColor=E10019" alt="Assembly x86" />
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=A3FF12" alt="JavaScript" />
+<img src="https://img.shields.io/badge/GDScript-0A0A0A?style=for-the-badge&logo=godotengine&logoColor=A3FF12" alt="GDScript" />
 
-#### ⛓️ Tecnologias que gosto de estudar voltadas para Blockchain
-<img src="https://img.shields.io/badge/Solidity-161B22?style=for-the-badge&logo=solidity&logoColor=00D9FF" alt="Solidity" />
-<img src="https://img.shields.io/badge/Vyper-161B22?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Vyper" />
-<img src="https://img.shields.io/badge/Web3.js-161B22?style=for-the-badge&logo=web3dotjs&logoColor=00D9FF" alt="Web3.js" />
-<img src="https://img.shields.io/badge/Ethers.js-161B22?style=for-the-badge&logo=ethereum&logoColor=00D9FF" alt="Ethers.js" />
-<img src="https://img.shields.io/badge/Web3.py-161B22?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Web3.py" />
-<img src="https://img.shields.io/badge/Bitcoinlib.py-161B22?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoinlib" />
+### `[ 02 // BLOCKCHAIN & CRIPTO ]`
 
-#### 🎨 Frontend & Ferramentas
-<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=00D9FF" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=00D9FF" alt="CSS3" />
+<img src="https://img.shields.io/badge/Solidity-0A0A0A?style=for-the-badge&logo=solidity&logoColor=A3FF12" alt="Solidity" />
+<img src="https://img.shields.io/badge/Vyper-0A0A0A?style=for-the-badge&logo=python&logoColor=A3FF12" alt="Vyper" />
+<img src="https://img.shields.io/badge/Web3.py-0A0A0A?style=for-the-badge&logo=python&logoColor=A3FF12" alt="Web3.py" />
+<img src="https://img.shields.io/badge/Bitcoinlib.py-0A0A0A?style=for-the-badge&logo=bitcoin&logoColor=E10019" alt="Bitcoinlib" />
+<img src="https://img.shields.io/badge/Web3.js-0A0A0A?style=for-the-badge&logo=web3dotjs&logoColor=A3FF12" alt="Web3.js" />
+<img src="https://img.shields.io/badge/Ethers.js-0A0A0A?style=for-the-badge&logo=ethereum&logoColor=A3FF12" alt="Ethers.js" />
 
-#### 🎮 Desenvolvimento de Jogos
-<img src="https://img.shields.io/badge/SDL2-161B22?style=for-the-badge&logo=c&logoColor=00D9FF" alt="SDL2" />
-<img src="https://img.shields.io/badge/Godot_4-161B22?style=for-the-badge&logo=godotengine&logoColor=00D9FF" alt="Godot 4" />
-<img src="https://img.shields.io/badge/Unity-161B22?style=for-the-badge&logo=unity&logoColor=00D9FF" alt="Unity" />
-<img src="https://img.shields.io/badge/Unreal_Engine_5-161B22?style=for-the-badge&logo=unrealengine&logoColor=00D9FF" alt="Unreal Engine 5" />
+### `[ 03 // WEB & GAME DEV ]`
 
-#### 💻 Sistemas Operacionais
-<img src="https://img.shields.io/badge/Ubuntu-161B22?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=windows&logoColor=00D9FF" alt="Windows" />
-<img src="https://img.shields.io/badge/MS--DOS-161B22?style=for-the-badge&logo=windows&logoColor=00D9FF" alt="MS-DOS" />
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=A3FF12" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=A3FF12" alt="CSS3" />
+<img src="https://img.shields.io/badge/SDL2-0A0A0A?style=for-the-badge&logo=c&logoColor=E10019" alt="SDL2" />
+<img src="https://img.shields.io/badge/Godot_4-0A0A0A?style=for-the-badge&logo=godotengine&logoColor=A3FF12" alt="Godot 4" />
+<img src="https://img.shields.io/badge/Unity-0A0A0A?style=for-the-badge&logo=unity&logoColor=A3FF12" alt="Unity" />
+<img src="https://img.shields.io/badge/Unreal_Engine_5-0A0A0A?style=for-the-badge&logo=unrealengine&logoColor=A3FF12" alt="Unreal Engine 5" />
 
-<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/divider.svg" width="100%" height="24" alt="" />
+### `[ 04 // SISTEMAS OPERACIONAIS ]`
 
-## ⛓️ Proof of Work, ao vivo
-
-<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/pow-chain.svg" alt="Animação de mineração de um bloco (Proof of Work)" width="100%" />
+<img src="https://img.shields.io/badge/Ubuntu-0A0A0A?style=for-the-badge&logo=ubuntu&logoColor=E10019" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=A3FF12" alt="Windows" />
+<img src="https://img.shields.io/badge/MS--DOS_6.22-0A0A0A?style=for-the-badge&logo=gnu-bash&logoColor=A3FF12" alt="MS-DOS 6.22" />
 
 <img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/divider.svg" width="100%" height="24" alt="" />
 
-## 📊 GitHub Stats
+### `[ 05 // RADAR DE ATUAÇÃO ]`
+
+<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/hud.svg" alt="Radar de áreas de atuação" width="100%" />
+
+<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/divider.svg" width="100%" height="24" alt="" />
+
+### `[ 06 // TELEMETRIA ]`
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=FrancoLudvig007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&border_radius=12" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=FrancoLudvig007&show_icons=true&hide_border=false&bg_color=050505&border_color=E10019&title_color=A3FF12&icon_color=E10019&text_color=C9D1D9&ring_color=A3FF12&border_radius=6" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoLudvig007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=12" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoLudvig007&layout=compact&langs_count=8&hide_border=false&bg_color=050505&border_color=E10019&title_color=A3FF12&text_color=C9D1D9&border_radius=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=FrancoLudvig007&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00D9FF&dates=8B949E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=FrancoLudvig007&hide_border=false&background=050505&border=E10019&stroke=1A1A1A&ring=E10019&fire=A3FF12&currStreakLabel=A3FF12&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E10019&dates=8B949E" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoLudvig007&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=FrancoLudvig007&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoLudvig007&bg_color=050505&color=A3FF12&line=E10019&point=FFFFFF&area=true&area_color=E10019&hide_border=true&custom_title=Hist%C3%B3rico%20de%20Contribui%C3%A7%C3%B5es" alt="Contribution Graph" width="100%" />
 
 <img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/divider.svg" width="100%" height="24" alt="" />
 
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-
-<br/>
-
-## 📡 Vamos conversar
-
-<!-- Troque SEU_LINKEDIN e SEU_EMAIL pelos seus dados reais (ou apague as linhas que não quiser) -->
-<a href="https://github.com/FrancoLudvig007"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
+<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=FrancoLudvig007&color=00D9FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=FrancoLudvig007&label=ACESSOS&color=E10019&labelColor=0A0A0A&style=for-the-badge" alt="Profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:8B5CF6&height=140&section=footer&animation=twinkling" width="100%" alt="" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/FrancoLudvig007/FrancoLudvig007/main/assets/footer.svg" width="100%" alt="Fim da transmissão" />
 
 </div>
